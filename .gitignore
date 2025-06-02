@@ -1,0 +1,100 @@
+# Compiled Object files
+*.o
+*.obj
+
+# Executables
+*.exe
+*.out
+*.app
+*.x
+
+# Static libraries
+*.a
+*.lib
+
+# Shared libraries
+*.so
+*.dll
+*.dylib
+
+# Dev-C++ specific files
+*.layout
+*.depend
+*.cbp
+*.marks
+*.elf
+
+# Makefile outputs
+Makefile.win
+
+# Debug files
+*.pdb
+*.ilk
+*.exp
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*.bak
+*.swp
+*.swo
+*~
+
+# IDE specific files
+.vscode/
+.vs/
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
+*.suo
+
+# Build directories
+build/
+Build/
+debug/
+Debug/
+release/
+Release/
+bin/
+obj/
+
+# CMake files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+*.cmake
+
+# Code::Blocks files
+*.cbp
+*.layout
+*.depend
+
+# Qt Creator files
+*.pro.user*
+
+# Mac specific
+.DS_Store
+*.dSYM/
+
+# Windows specific
+Thumbs.db
+Desktop.ini
+
+# Linux specific
+*.so.*
+*.a
+core
+
+# Backup files
+*.orig
+*.rej
+*.bak
+
+# Project specific executables
+truck_racing_game
+truck_racing_game.exe
+CrazyTruck
+CrazyTruck.exe
